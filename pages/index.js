@@ -7,7 +7,7 @@ function HomePage() {
     <Head>
         <title>Anasayfa</title>
     </Head>
-       <h2>Welcome to Next.js!</h2> 
+       <h2>Welcome to Next.js! Firs app</h2> 
        <style jsx>{`
            h2{
                color: white;
